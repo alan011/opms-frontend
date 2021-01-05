@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@bbfe/data-provider": "^1.0.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "element-ui": "^2.3.4",
     "vue": "^2.5.16",
     "vue-router": "^3.0.2"
